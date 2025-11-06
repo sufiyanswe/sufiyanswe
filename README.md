@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=sufiyanswe&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sufiyanswe&theme=prussian&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
+### ✍️ Thought of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
